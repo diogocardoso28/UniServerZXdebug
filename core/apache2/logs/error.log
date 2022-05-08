@@ -1,0 +1,50 @@
+[Sat May 07 22:45:38.089135 2022] [core:warn] [pid 3180:tid 520] AH00098: pid file C:/UniServerZ/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+Xdebug: [Config] The setting 'xdebug.remote_autostart' has been renamed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_autostart (See: https://xdebug.org/docs/errors#CFG-C-CHANGED)
+Xdebug: [Config] The setting 'xdebug.remote_enable' has been renamed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_enable (See: https://xdebug.org/docs/errors#CFG-C-CHANGED)
+Xdebug: [Config] The setting 'xdebug.remote_host' has been renamed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_host (See: https://xdebug.org/docs/errors#CFG-C-CHANGED)
+Xdebug: [Config] The setting 'xdebug.remote_port' has been renamed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_port (See: https://xdebug.org/docs/errors#CFG-C-CHANGED)
+[Sat May 07 22:45:38.100901 2022] [mpm_winnt:notice] [pid 3180:tid 520] AH00455: Apache/2.4.46 (Win32) PHP/8.0.18 configured -- resuming normal operations
+[Sat May 07 22:45:38.100901 2022] [mpm_winnt:notice] [pid 3180:tid 520] AH00456: Apache Lounge VC15 Server built: Feb 18 2021 09:53:33
+[Sat May 07 22:45:38.100901 2022] [core:notice] [pid 3180:tid 520] AH00094: Command line: 'C:\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d C:/UniServerZ/core/apache2 -f C:\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d C:\\UniServerZ\\core\\apache2'
+[Sat May 07 22:45:38.108502 2022] [mpm_winnt:notice] [pid 3180:tid 520] AH00418: Parent: Created child process 16436
+Xdebug: [Config] The setting 'xdebug.remote_autostart' has been renamed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_autostart (See: https://xdebug.org/docs/errors#CFG-C-CHANGED)
+Xdebug: [Config] The setting 'xdebug.remote_enable' has been renamed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_enable (See: https://xdebug.org/docs/errors#CFG-C-CHANGED)
+Xdebug: [Config] The setting 'xdebug.remote_host' has been renamed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_host (See: https://xdebug.org/docs/errors#CFG-C-CHANGED)
+Xdebug: [Config] The setting 'xdebug.remote_port' has been renamed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_port (See: https://xdebug.org/docs/errors#CFG-C-CHANGED)
+[Sat May 07 22:45:38.753402 2022] [mpm_winnt:notice] [pid 16436:tid 900] AH00354: Child: Starting 150 worker threads.
+[Sat May 07 22:46:46.078244 2022] [core:warn] [pid 19260:tid 472] AH00098: pid file C:/UniServerZ/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat May 07 22:46:46.098441 2022] [mpm_winnt:notice] [pid 19260:tid 472] AH00455: Apache/2.4.46 (Win32) PHP/8.0.18 configured -- resuming normal operations
+[Sat May 07 22:46:46.098441 2022] [mpm_winnt:notice] [pid 19260:tid 472] AH00456: Apache Lounge VC15 Server built: Feb 18 2021 09:53:33
+[Sat May 07 22:46:46.098441 2022] [core:notice] [pid 19260:tid 472] AH00094: Command line: 'C:\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d C:/UniServerZ/core/apache2 -f C:\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d C:\\UniServerZ\\core\\apache2'
+[Sat May 07 22:46:46.113164 2022] [mpm_winnt:notice] [pid 19260:tid 472] AH00418: Parent: Created child process 16020
+[Sat May 07 22:46:46.858264 2022] [mpm_winnt:notice] [pid 16020:tid 716] AH00354: Child: Starting 150 worker threads.
+[Sun May 08 10:53:32.321226 2022] [core:warn] [pid 2516:tid 560] AH00098: pid file C:/UniServerZ/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 08 10:53:33.787227 2022] [mpm_winnt:notice] [pid 2516:tid 560] AH00455: Apache/2.4.46 (Win32) PHP/8.0.18 configured -- resuming normal operations
+[Sun May 08 10:53:33.787227 2022] [mpm_winnt:notice] [pid 2516:tid 560] AH00456: Apache Lounge VC15 Server built: Feb 18 2021 09:53:33
+[Sun May 08 10:53:33.787227 2022] [core:notice] [pid 2516:tid 560] AH00094: Command line: 'C:\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d C:/UniServerZ/core/apache2 -f C:\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d C:\\UniServerZ\\core\\apache2'
+[Sun May 08 10:53:33.791227 2022] [mpm_winnt:notice] [pid 2516:tid 560] AH00418: Parent: Created child process 15536
+[Sun May 08 10:53:35.252225 2022] [mpm_winnt:notice] [pid 15536:tid 544] AH00354: Child: Starting 150 worker threads.
+[Sun May 08 23:05:18.003237 2022] [core:warn] [pid 4496:tid 684] AH00098: pid file C:/UniServerZXdebug/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 08 23:05:18.223764 2022] [mpm_winnt:notice] [pid 4496:tid 684] AH00455: Apache/2.4.46 (Win32) PHP/8.0.18 configured -- resuming normal operations
+[Sun May 08 23:05:18.223764 2022] [mpm_winnt:notice] [pid 4496:tid 684] AH00456: Apache Lounge VC15 Server built: Feb 18 2021 09:53:33
+[Sun May 08 23:05:18.223764 2022] [core:notice] [pid 4496:tid 684] AH00094: Command line: 'C:\\UniServerZXdebug\\core\\apache2\\bin\\httpd_z.exe -d C:/UniServerZXdebug/core/apache2 -f C:\\UniServerZXdebug\\core\\apache2\\conf\\httpd.conf -d C:\\UniServerZXdebug\\core\\apache2'
+[Sun May 08 23:05:18.231034 2022] [mpm_winnt:notice] [pid 4496:tid 684] AH00418: Parent: Created child process 22124
+[Sun May 08 23:05:18.901254 2022] [mpm_winnt:notice] [pid 22124:tid 512] AH00354: Child: Starting 150 worker threads.
+[Sun May 08 23:05:25.091300 2022] [php:notice] [pid 22124:tid 1904] [client ::1:61358] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (through xdebug.client_host/xdebug.client_port) :-(
+[Sun May 08 23:05:28.361508 2022] [php:notice] [pid 22124:tid 1904] [client ::1:61358] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (through xdebug.client_host/xdebug.client_port) :-(, referer: http://localhost/us_extra/phpinfo.php
+[Sun May 08 23:08:27.144492 2022] [core:warn] [pid 24764:tid 652] AH00098: pid file C:/UniServerZXdebug/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 08 23:08:27.158500 2022] [mpm_winnt:notice] [pid 24764:tid 652] AH00455: Apache/2.4.46 (Win32) PHP/8.0.18 configured -- resuming normal operations
+[Sun May 08 23:08:27.159503 2022] [mpm_winnt:notice] [pid 24764:tid 652] AH00456: Apache Lounge VC15 Server built: Feb 18 2021 09:53:33
+[Sun May 08 23:08:27.159503 2022] [core:notice] [pid 24764:tid 652] AH00094: Command line: 'C:\\UniServerZXdebug\\core\\apache2\\bin\\httpd_z.exe -d C:/UniServerZXdebug/core/apache2 -f C:\\UniServerZXdebug\\core\\apache2\\conf\\httpd.conf -d C:\\UniServerZXdebug\\core\\apache2'
+[Sun May 08 23:08:27.173497 2022] [mpm_winnt:notice] [pid 24764:tid 652] AH00418: Parent: Created child process 24484
+[Sun May 08 23:08:27.755023 2022] [mpm_winnt:notice] [pid 24484:tid 572] AH00354: Child: Starting 150 worker threads.
+[Sun May 08 23:08:28.419199 2022] [php:notice] [pid 24484:tid 1872] [client ::1:61410] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (through xdebug.client_host/xdebug.client_port) :-(
+[Sun May 08 23:08:28.900256 2022] [php:notice] [pid 24484:tid 1872] [client ::1:61410] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (through xdebug.client_host/xdebug.client_port) :-(
+[Sun May 08 23:09:14.957852 2022] [core:warn] [pid 16592:tid 484] AH00098: pid file C:/UniServerZXdebug/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 08 23:09:14.988483 2022] [mpm_winnt:notice] [pid 16592:tid 484] AH00455: Apache/2.4.46 (Win32) PHP/8.0.18 configured -- resuming normal operations
+[Sun May 08 23:09:14.988483 2022] [mpm_winnt:notice] [pid 16592:tid 484] AH00456: Apache Lounge VC15 Server built: Feb 18 2021 09:53:33
+[Sun May 08 23:09:14.988483 2022] [core:notice] [pid 16592:tid 484] AH00094: Command line: 'C:\\UniServerZXdebug\\core\\apache2\\bin\\httpd_z.exe -d C:/UniServerZXdebug/core/apache2 -f C:\\UniServerZXdebug\\core\\apache2\\conf\\httpd.conf -d C:\\UniServerZXdebug\\core\\apache2'
+[Sun May 08 23:09:14.990941 2022] [mpm_winnt:notice] [pid 16592:tid 484] AH00418: Parent: Created child process 4652
+[Sun May 08 23:09:15.618664 2022] [mpm_winnt:notice] [pid 4652:tid 696] AH00354: Child: Starting 150 worker threads.
+[Sun May 08 23:09:17.166770 2022] [php:notice] [pid 4652:tid 1868] [client ::1:61426] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Sun May 08 23:09:18.512643 2022] [php:notice] [pid 4652:tid 1868] [client ::1:61426] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(, referer: http://localhost/us_extra/phpinfo.php
